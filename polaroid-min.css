@@ -1,0 +1,6 @@
+/**
+ * Not Another Polaroid Jquery Plugin
+ * @author Juan Caser
+ * @version 1.0
+ */
+.polaroid{padding:$padding;background:rgba(250,250,250,1);background:-moz-linear-gradient(left,rgba(250,250,250,1) 0,rgba(232,232,232,1) 100%);background:-webkit-gradient(left top,right top,color-stop(0,rgba(250,250,250,1)),color-stop(100%,rgba(232,232,232,1)));background:-webkit-linear-gradient(left,rgba(250,250,250,1) 0,rgba(232,232,232,1) 100%);background:-o-linear-gradient(left,rgba(250,250,250,1) 0,rgba(232,232,232,1) 100%);background:-ms-linear-gradient(left,rgba(250,250,250,1) 0,rgba(232,232,232,1) 100%);background:linear-gradient(to right,rgba(250,250,250,1) 0,rgba(232,232,232,1) 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#fafafa', endColorstr='#e8e8e8', GradientType=1 );-webkit-border-radius:2px;-moz-border-radius:2px;border-radius:2px;-webkit-box-shadow:10px 10px 13px -7px rgba(0,0,0,.33);-moz-box-shadow:10px 10px 13px -7px rgba(0,0,0,.33);box-shadow:10px 10px 13px -7px rgba(0,0,0,.33);border:1px solid #e8e8e8}
